@@ -1,3 +1,5 @@
+-- 소스 코드 쓸꺼면 쓰기 ㄱㄱ 짜피 이제 업데이트도 안할꺼고 할 흥미도 없노
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local Camera = workspace.CurrentCamera
